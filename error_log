@@ -1,0 +1,67 @@
+[01-Aug-2025 16:59:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/cervejac/public_html/cervejacomogros/index.php:20) in /home2/cervejac/public_html/cervejacomogros/index.php on line 28
+[01-Aug-2025 16:59:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/cervejac/public_html/cervejacomogros/index.php:20) in /home2/cervejac/public_html/cervejacomogros/index.php on line 28
+[01-Aug-2025 17:03:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:03:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:03:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:03:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:03:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:03:59 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:04:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:04:38 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dia' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT dia, tip...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:06:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_refeicao' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:36
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(36): mysqli->prepare('SELECT data_ref...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 36
+[01-Aug-2025 17:12:46 America/Fortaleza] PHP Warning:  require_once(conexao.php): Failed to open stream: No such file or directory in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 8
+[01-Aug-2025 17:12:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'conexao.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/cervejac/public_html/cervejacomogros/dashboard.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 8
+[01-Aug-2025 17:14:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cervejac_nhocreport.hidratacao' doesn't exist in /home2/cervejac/public_html/cervejacomogros/dashboard.php:29
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(29): mysqli->prepare('SELECT id, data...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 29
+[01-Aug-2025 22:09:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:53
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(53): mysqli->prepare('SELECT id, data...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 53
+[01-Aug-2025 22:09:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home2/cervejac/public_html/cervejacomogros/dashboard.php:53
+Stack trace:
+#0 /home2/cervejac/public_html/cervejacomogros/dashboard.php(53): mysqli->prepare('SELECT id, data...')
+#1 {main}
+  thrown in /home2/cervejac/public_html/cervejacomogros/dashboard.php on line 53
